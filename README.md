@@ -1,3 +1,13 @@
-# dotw-finalproject
-For my final project I would like to create a portfolio of my sketchbook and translate it into an interactive web environment. I hope to have individual pages of my sketchbook floating in a 3D space, like feathers, which can then be clicked on to view fully. The thematic concept of my project is the motion of floating or suspension. In addition to this page, I would like to have one page that is composed of multiple layers of semi-transparent cloud images coupled with CSS transitions so that is appears like the viewer is situated within the clouds and in a state of suspension. And lastly, the third page will have a space theme composed of various particles suspended and slowly moving through a dark space. 
-Besides the sketchbook page, I want interactivity to be limited. For the space page, I would like the user to be able to look around the space through the use of orbit controls but for the cloud-themed page I don’t want there to be any sort of interactivity. 
+﻿# In a state of suspension
+## An interactive 3D series
+
+[Project Link](http://i6.cims.nyu.edu/~sem570/dotw/final_project/) 
+
+1. I hang in the vacuum of eight thousand stars
+Web page consisting of 8000 star particles that the user can travel through using either mouse clicks or the WASD keys.
+
+2. Immersed in clouds as beautiful as the light they shroud
+Web page featuring movement through clouds and two lens flares. 
+
+3. Scattered images begin to collide
+Web page consisting of suspended images from my watercolor sketchbook.
